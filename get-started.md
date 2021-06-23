@@ -1,6 +1,6 @@
 <img align="right" src="./assets/crusher.png" width="150">
 
-> [@Crusher](https://discord.com/api/oauth2/authorize?client_id=856581397690187778&permissions=8&scope=bot)
+> [@Crusher Invite Link](https://discord.com/api/oauth2/authorize?client_id=856581397690187778&permissions=8&scope=bot)
 
 # Intuitive
 
