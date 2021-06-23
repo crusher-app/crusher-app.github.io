@@ -1,6 +1,6 @@
 <img align="right" src="./assets/crusher.png" width="150">
 
-> [@Crusher](https://github.com/Muhammad-Hadidi/crusher) (Discord Music Bot) 🤖: Version: 9.0.0 Update: Saturday, 13 March 2021
+> [@Crusher](https://discord.com/api/oauth2/authorize?client_id=856581397690187778&permissions=8&scope=bot)
 
 # Intuitive
 
