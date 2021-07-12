@@ -30,6 +30,6 @@ Something not right? Don't worry, we've got you covered. Our support team is alw
 
 **Never miss a beat.**
 
-Behind the scenes we're working around the clock to make sure you can seamlessly enjoy your music experience. Groovy runs on state-of-the-art tech to ensure minimal downtime, low latency, and no disruptions.
+Behind the scenes we're working around the clock to make sure you can seamlessly enjoy your music experience. Crusher runs on state-of-the-art tech to ensure minimal downtime, low latency, and no disruptions.
 
 ![stable](./assets/stable.png)
