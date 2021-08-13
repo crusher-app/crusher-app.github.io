@@ -1,4 +1,4 @@
-<img align="right" src="./assets/crusher.png" width="150">
+<a href="https://github.com/crusher-app"><img align="right" width="150" src="./assets/crusher.png"></a>
 
 # Crusher
 # Crusher
