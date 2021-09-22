@@ -1,5 +1,5 @@
+# Crusher
 <a href="https://github.com/crusher-app"><img align="right" width="150" src="./assets/crusher.png"></a>
-
 > <a href="https://discord.com/api/oauth2/authorize?client_id=856581397690187778&permissions=8&scope=bot" target="_blank">Invite Link</a> - [Commands](./commands.md)
 
 # Intuitive
